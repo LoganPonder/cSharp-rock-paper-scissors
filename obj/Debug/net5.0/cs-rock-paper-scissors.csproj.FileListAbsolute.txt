@@ -1,0 +1,15 @@
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/cs-rock-paper-scissors.deps.json
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/cs-rock-paper-scissors.runtimeconfig.json
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/cs-rock-paper-scissors.runtimeconfig.dev.json
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/cs-rock-paper-scissors.dll
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/ref/cs-rock-paper-scissors.dll
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/bin/Debug/net5.0/cs-rock-paper-scissors.pdb
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.csprojAssemblyReference.cache
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.AssemblyInfoInputs.cache
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.AssemblyInfo.cs
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.csproj.CoreCompileInputs.cache
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.dll
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/ref/cs-rock-paper-scissors.dll
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.pdb
+/Users/lponder/Desktop/codeworks/cs-rock-paper-scissors/obj/Debug/net5.0/cs-rock-paper-scissors.genruntimeconfig.cache
